@@ -34,9 +34,6 @@ echo "    \|____________|\|__|\|__| \|__|    \|__|  \|_______|\|__|\|__\|_______
 echo "                                                                           ";
 echo "                                                                           ";
 echo "                                                                           ";
-
-echo press any key to clean
-pause > nul
 echo.
 taskkill /f /im smartscreen.exe
 taskkill /f /im EasyAntiCheat.exe
